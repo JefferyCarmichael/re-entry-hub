@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/re-entry-hub/static/css/main.eda17d91.chunk.css",
+    "main.js": "/re-entry-hub/static/js/main.550dbbe5.chunk.js",
+    "main.js.map": "/re-entry-hub/static/js/main.550dbbe5.chunk.js.map",
+    "runtime-main.js": "/re-entry-hub/static/js/runtime-main.ea399ecb.js",
+    "runtime-main.js.map": "/re-entry-hub/static/js/runtime-main.ea399ecb.js.map",
+    "static/css/2.510409cd.chunk.css": "/re-entry-hub/static/css/2.510409cd.chunk.css",
+    "static/js/2.f22f7b9b.chunk.js": "/re-entry-hub/static/js/2.f22f7b9b.chunk.js",
+    "static/js/2.f22f7b9b.chunk.js.map": "/re-entry-hub/static/js/2.f22f7b9b.chunk.js.map",
+    "index.html": "/re-entry-hub/index.html",
+    "precache-manifest.902301ff0faacf3c00a44a304f9f950d.js": "/re-entry-hub/precache-manifest.902301ff0faacf3c00a44a304f9f950d.js",
+    "service-worker.js": "/re-entry-hub/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/re-entry-hub/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.eda17d91.chunk.css.map": "/re-entry-hub/static/css/main.eda17d91.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea399ecb.js",
+    "static/css/2.510409cd.chunk.css",
+    "static/js/2.f22f7b9b.chunk.js",
+    "static/css/main.eda17d91.chunk.css",
+    "static/js/main.550dbbe5.chunk.js"
+  ]
+}
